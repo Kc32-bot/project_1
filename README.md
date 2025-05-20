@@ -42,7 +42,7 @@ The goal of this project is to practice and demonstrate clean, semantic HTML and
 - HTML5
 - CSS3
 - Google Fonts
-- (Optional) Visual Studio Code for editing
+- Visual Studio Code for editing
 
 ---
 
@@ -82,7 +82,9 @@ MyFruitBar/
 ---
 
 
-## hosting link:  
+## hosting link:  https://kc32-bot.github.io/project_1/
+
+---------------
 ## 📞 Contact
 
 For questions or feedback, feel free to reach out via the keysee651@gmail.com page.
