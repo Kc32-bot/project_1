@@ -1,4 +1,4 @@
-**My Name:** Kseniia Borisenko
+**My Name:** Kseniia. 
 **Course Name:** Bootcamp  /  Software Engineering Self-Paced Bootcamp with Coaching
 **School:** California State University San Marcos, Extended Learning with ed2go
 **Project Date:** May 2025
@@ -7,8 +7,6 @@
 # 🍓 MyFruit Bar - Mexican Fruit Dessert Website
 Hello! Welcome to **MyFruit Bar**, a vibrant and flavorful Mexican fruit bar website built with HTML and CSS.
 This project was created as part of a hands-on assignment to demonstrate basic web development skills using HTML and CSS.
-It highlights understanding of layout structure and element styling.  
-
 ---
 
 ## 📌 Project Description and Functionality: 
@@ -23,19 +21,7 @@ The site includes:
 - Menu and buttons
 - A styled content section with images and text
 - Footer with copyright
-
-The goal of this project is to practice and demonstrate clean, semantic HTML and CSS structure suitable for a small business.
-
 ---
-## ✨ Features
-
-- Google Fonts integration
-- Internal links
-- Clear content sections and image integration
-- Clean UI with styled buttons and layout
-
----
-
 ## 🛠️ Technologies Used
 
 - HTML5
