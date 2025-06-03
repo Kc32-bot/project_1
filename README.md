@@ -7,8 +7,8 @@
 # 🍓 MyFruit Bar - Mexican Fruit Dessert Website
 Hello! Welcome to **MyFruit Bar**, a vibrant and flavorful Mexican fruit bar website built with HTML and CSS.
 This project was created as part of a hands-on assignment to demonstrate basic web development skills using HTML and CSS.
-It highlights understanding of layout structure, element styling, and semantic markup.  
-Feel free to explore, customize, and build upon it!
+It highlights understanding of layout structure and element styling.  
+
 ---
 
 ## 📌 Project Description and Functionality: 
@@ -20,7 +20,7 @@ The site includes:
 
 - A homepage with a header navigation bar
 - A description of the business and its offerings
-- menu and buttons
+- Menu and buttons
 - A styled content section with images and text
 - Footer with copyright
 
@@ -29,9 +29,8 @@ The goal of this project is to practice and demonstrate clean, semantic HTML and
 ---
 ## ✨ Features
 
-- Fully responsive layout (mobile-friendly if styled in CSS)
 - Google Fonts integration
-- Internal linking
+- Internal links
 - Clear content sections and image integration
 - Clean UI with styled buttons and layout
 
