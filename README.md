@@ -4,7 +4,7 @@
 **Project Date:** May 2025
 
 
-# 🍓 MyFruit Bar - Mexican Fruit Dessert Website
+#  MyFruit Bar - Mexican Fruit Dessert Website
 Hello! Welcome to **MyFruit Bar**, a vibrant and flavorful Mexican fruit bar website built with HTML and CSS.
 This project was created as part of a hands-on assignment to demonstrate basic web development skills using HTML and CSS.
 ---
