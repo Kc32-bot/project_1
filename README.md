@@ -1,14 +1,12 @@
-**My Name:** Kseniia Borisenko
+**My Name:** Kseniia. 
 **Course Name:** Bootcamp  /  Software Engineering Self-Paced Bootcamp with Coaching
 **School:** California State University San Marcos, Extended Learning with ed2go
 **Project Date:** May 2025
 
 
-# 🍓 MyFruit Bar - Mexican Fruit Dessert Website
+#  MyFruit Bar - Mexican Fruit Dessert Website
 Hello! Welcome to **MyFruit Bar**, a vibrant and flavorful Mexican fruit bar website built with HTML and CSS.
 This project was created as part of a hands-on assignment to demonstrate basic web development skills using HTML and CSS.
-It highlights understanding of layout structure, element styling, and semantic markup.  
-Feel free to explore, customize, and build upon it!
 ---
 
 ## 📌 Project Description and Functionality: 
@@ -20,23 +18,10 @@ The site includes:
 
 - A homepage with a header navigation bar
 - A description of the business and its offerings
-- menu and buttons
+- Menu and buttons
 - A styled content section with images and text
 - Footer with copyright
-
-The goal of this project is to practice and demonstrate clean, semantic HTML and CSS structure suitable for a small business.
-
 ---
-## ✨ Features
-
-- Fully responsive layout (mobile-friendly if styled in CSS)
-- Google Fonts integration
-- Internal and external linking
-- Clear content sections and image integration
-- Clean UI with styled buttons and layout
-
----
-
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -46,40 +31,17 @@ The goal of this project is to practice and demonstrate clean, semantic HTML and
 
 ---
 
-## 🚀 Getting Started
-
-To view the website locally:
-
-1. Clone the repository or download the ZIP file.
-2. Make sure the file structure is like this:
+## 📂 Folder Structure
 
 project-folder/
 ├── images/
-│ └── fruit/
-│ └── pexels-nishantaneja-2955817.jpg
-├── styles/
+
+├── CSS/
 │ └── fruitproject.css
-├── index.html
-├── page2.html
-└── contactforfruitproject.html
 
-
-3. Open `index.html` in your browser.
-
----
-
-## 📂 Folder Structure
-
-MyFruitBar/
-├── index.html
-├── page2.html
-├── contactforfruitproject.html
-├── styles/
-│ └── fruitprogect.css
-└── images/
-└── fruit/
-└── pexels-nishantaneja-2955817.jpg
----
+├── 5.html
+├── 5contact.html
+└── page2.html
 
 
 ## hosting link:  https://kc32-bot.github.io/project_1/
