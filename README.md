@@ -31,7 +31,7 @@ The goal of this project is to practice and demonstrate clean, semantic HTML and
 
 - Fully responsive layout (mobile-friendly if styled in CSS)
 - Google Fonts integration
-- Internal and external linking
+- Internal linking
 - Clear content sections and image integration
 - Clean UI with styled buttons and layout
 
@@ -46,40 +46,17 @@ The goal of this project is to practice and demonstrate clean, semantic HTML and
 
 ---
 
-## 🚀 Getting Started
-
-To view the website locally:
-
-1. Clone the repository or download the ZIP file.
-2. Make sure the file structure is like this:
+## 📂 Folder Structure
 
 project-folder/
 ├── images/
-│ └── fruit/
-│ └── pexels-nishantaneja-2955817.jpg
-├── styles/
+
+├── CSS/
 │ └── fruitproject.css
-├── index.html
-├── page2.html
-└── contactforfruitproject.html
 
-
-3. Open `index.html` in your browser.
-
----
-
-## 📂 Folder Structure
-
-MyFruitBar/
-├── index.html
-├── page2.html
-├── contactforfruitproject.html
-├── styles/
-│ └── fruitprogect.css
-└── images/
-└── fruit/
-└── pexels-nishantaneja-2955817.jpg
----
+├── 5.html
+├── 5contact.html
+└── page2.html
 
 
 ## hosting link:  https://kc32-bot.github.io/project_1/
